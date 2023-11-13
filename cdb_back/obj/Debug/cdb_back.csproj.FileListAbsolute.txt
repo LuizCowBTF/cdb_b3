@@ -1,0 +1,7 @@
+D:\PROJETOS___INNOVVATIO\cdb_b3\cdb_back\bin\Debug\cdb_back.exe.config
+D:\PROJETOS___INNOVVATIO\cdb_b3\cdb_back\bin\Debug\cdb_back.exe
+D:\PROJETOS___INNOVVATIO\cdb_b3\cdb_back\bin\Debug\cdb_back.pdb
+D:\PROJETOS___INNOVVATIO\cdb_b3\cdb_back\obj\Debug\cdb_back.csproj.AssemblyReference.cache
+D:\PROJETOS___INNOVVATIO\cdb_b3\cdb_back\obj\Debug\cdb_back.csproj.CoreCompileInputs.cache
+D:\PROJETOS___INNOVVATIO\cdb_b3\cdb_back\obj\Debug\cdb_back.exe
+D:\PROJETOS___INNOVVATIO\cdb_b3\cdb_back\obj\Debug\cdb_back.pdb
